@@ -7,7 +7,7 @@ A collection of Units of Measure, standardized for use in interoperability of Ca
 
 ## Table of Contents
 
-* All Units of Measure [(docs)](https://github.com/conflabs/wcia-uoms/blob/main/docs/AllUoms.md) [(json)](https://github.com/conflabs/wcia-assays/blob/main/json/allUoms.json)
+* All Units of Measure [(docs)](https://github.com/conflabs/wcia-uoms/blob/main/docs/AllUoms.md) [(json)](https://github.com/conflabs/wcia-uoms/blob/main/json/allUoms.json)
 
 ### Resources
 
